@@ -1,8 +1,12 @@
 h1 {
-    background: #57af7e;
+    background: #569a65;
     text-align: center;
-    color: black;
+    color: white;
     border-radius: 5px;
 }
 
-a {}
+.heading {
+    color: red;
+    /* background: lightblue;
+    border-radius: 3px; */
+}
